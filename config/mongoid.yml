@@ -1,0 +1,6 @@
+development:
+  sessions:
+    default:
+      database: mongoid_exp
+      hosts:
+        - localhost:27017
